@@ -33,8 +33,15 @@
     .size{
         font-weight: bolder;
     }
-    .image{
-        margin:50px;
-    }
+    #image-shadow{
+        border: 7px solid gold;
+        border-image: linear-gradient(yellow gold) ;
+        box-shadow: 10px 10px 10px gray;
+        width:93%;
+        
+    } 
+    
+  
+    
     
     
