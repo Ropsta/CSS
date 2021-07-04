@@ -1,0 +1,36 @@
+
+        
+    body{
+        background-color: goldenrod;
+    }
+    .MAMA{
+        color: blueviolet;
+    }
+    .banda{
+        color: rgb(156, 64, 64);
+        
+    }
+    h1{
+        color: rgb(90, 78, 78);
+    }
+    .poor{
+        background-color: white;
+        border: 5px solid gray;
+        border-radius: 20%;
+        margin:0px 300px;
+        margin-bottom:20px;
+        padding: 50px 20px;
+    }
+    .Text-type{
+        text-align: center;
+    }
+    div p{
+        text-align: justify;
+    }
+    .fornt{
+        font-family: inherit;
+    }
+    .size{
+        font-weight: bolder;
+    }
+    
